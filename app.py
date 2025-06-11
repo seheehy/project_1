@@ -1,1 +1,2 @@
-print("Welcome to my app!")
+def greet():
+    print("Welcome to my app!")
